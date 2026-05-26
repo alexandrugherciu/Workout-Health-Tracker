@@ -31,3 +31,8 @@ obj/
 *.user
 *.suo
 
+# Build artifacts
+tsconfig.app.tsbuildinfo
+tsconfig.node.tsbuildinfo
+
+
