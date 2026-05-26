@@ -43,4 +43,5 @@ dotnet run
 ## Authors
 
 - Alexandru Gherciu
-- ...
+- Daniel Chițanu
+- Jumiga Maximilian
